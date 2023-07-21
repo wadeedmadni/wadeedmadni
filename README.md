@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Wadeed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wadeedmadni&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **wadeedmadni/wadeedmadni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
