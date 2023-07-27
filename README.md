@@ -6,9 +6,8 @@
 [![Wadeed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wadeedmadni&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h3 align="left">Connect with me:</h3>
-
-<a href="mailto:wadeedmadni09@gmail.com">![wadeedmadni09@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
+<h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me: </h3>
+<a href="mailto:wadeedmadni09@gmail.com">![wadeedmadni09@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/wadeedmadni">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.kaggle.com/yashodattapatil">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)</a>
 <a href="https://wadeedmadni.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
