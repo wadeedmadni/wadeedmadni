@@ -7,6 +7,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="mailto:wadeedmadni09@gmail.com">![wadeedmadni09@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/wadeedmadni">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
+<a href="https://www.kaggle.com/yashodattapatil">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)</a>
+<a href="https://wadeedmadni.medium.com/">![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)</a>
+<a href="https://www.hackerrank.com/patilyashodatta1">![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)</a> /***need to update***/
+
 <p align="left">
 <a href="https://linkedin.com/in/wadeedmadni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wadeedmadni" height="30" width="40" /></a>
 <a href="https://instagram.com/wadeed.madni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wadeed.madni" height="30" width="40" /></a>
