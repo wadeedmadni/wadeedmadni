@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wadeed Madni</h1>
-<h3 align="center">An aspiring Data Scientist and Data Enthusiast</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&lines=An+Aspiring+Data+Scientist;+%26+Data+Enthusiast" alt="Typing SVG" /></a>
+  </h3>
 
 [![Wadeed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wadeedmadni&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
