@@ -8,7 +8,7 @@
 
 <h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me: </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-wadeedmadni09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wadeedmadni09@gmail.com)](mailto:wadeedmadni09@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-wadeedmadni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wadeedmadni)](https://www.linkedin.com/in/wadeedmadni) [![Medium Badge](https://img.shields.io/badge/-wadeedmadni-blue?style=flat-square&logo=Medium&logoColor=white&link=https://wadeedmadni.medium.com/)](https://wadeedmadni.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wadeedmadni09@gmail.com)](mailto:wadeedmadni09@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wadeedmadni)](https://www.linkedin.com/in/wadeedmadni) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://wadeedmadni.medium.com/)](https://wadeedmadni.medium.com/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/wadeed.madni)](https://www.instagram.com/wadeed.madni) [![Upwork Badge](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01e4a957c2b59dee15)](https://www.upwork.com/freelancers/~01e4a957c2b59dee15)
 
 
 <h3 align="left">Languages and Tools:</h3>
