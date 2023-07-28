@@ -8,9 +8,7 @@
 
 <h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me: </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-wadeedmadni09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wadeedmadni09@gmail.com)](mailto:wadeedmadni09@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-wadeedmadni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wadeedmadni)](https://www.linkedin.com/in/wadeedmadni)
+[![Gmail Badge](https://img.shields.io/badge/-wadeedmadni09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wadeedmadni09@gmail.com)](mailto:wadeedmadni09@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-wadeedmadni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wadeedmadni)](https://www.linkedin.com/in/wadeedmadni)
 
 
 <h3 align="left">Languages and Tools:</h3>
