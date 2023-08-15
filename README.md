@@ -28,7 +28,7 @@
 
 ### 📈 Stats
 <p align="center" float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wadeedmadni&show_icons=true&theme=tokyonight" width="400" height="400"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadeedmadni&theme=tokyonight" width="400" height="400">
+<img src="https://github-readme-stats.vercel.app/api?username=wadeedmadni&show_icons=true&theme=tokyonight" width="60%" height="50%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadeedmadni&theme=tokyonight" width="60%" height="60%">
 </p>
 
 <!--
